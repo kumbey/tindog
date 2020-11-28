@@ -73,5 +73,8 @@ padding: 3%;
   margin-bottom: 1rem;
 }
 .features-icon:hover{
-  color: #fc4c68;
+  /* color: #fc4c68; */
+  color: red;
 }
+
+/*  comment  */
