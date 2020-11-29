@@ -197,7 +197,7 @@ html{
 
 /* MEDIA QUERY */
 
-@media (max-width: 1080px) {
+@media (max-width: 600px) {
   #title{
     text-align: center;
   }
